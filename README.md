@@ -7,7 +7,7 @@ The app is built using **Streamlit**, **LangChain**, **Groq**, and other essenti
 ## Features
 
 - **Post Generation**: Generate LinkedIn posts based on topics, lengths, and languages.
-- **Language Support**: English and Hinglish (Hindi + English).
+- **Language Support**: English, Hinglish (Hindi + English) and Kannada.
 - **Customizable Options**: Length of the post (Short, Medium, Long), Topic (Tags), and Language.
 - **Integration with Few-Shot Learning**: AI uses previously processed posts as examples for content generation.
 
